@@ -1,6 +1,6 @@
 # Algo Trade Screener Landing Page
 
-Landing page untuk **Algo Trade Screener** - platform yang menyediakan rekomendasi saham berbasis algoritma dengan track record nyata.
+Landing page untuk **Algo Trade Screener** - platform yang menyediakan sinyal dan rekomendasi trading saham berbasis algoritma dengan track record nyata.
 
 ## 🚀 Fitur
 

@@ -46,10 +46,10 @@ export function SignalTypesSection() {
       <div className="max-w-7xl mx-auto">
         <div className="text-center mb-16">
           <h2 className="text-3xl sm:text-4xl lg:text-5xl font-bold mb-6 text-balance">
-            Tipe <span className="text-primary">Sinyal</span>
+            Tipe <span className="text-primary">Sinyal Saham</span>
           </h2>
           <p className="text-lg text-muted-foreground max-w-2xl mx-auto">
-            4 kategori sinyal untuk membantu Anda mengambil keputusan trading yang tepat
+            4 kategori sinyal saham untuk membantu Anda mengambil keputusan trading saham yang tepat
           </p>
         </div>
 

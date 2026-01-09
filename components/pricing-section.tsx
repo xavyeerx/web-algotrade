@@ -53,7 +53,7 @@ export function PricingSection() {
               className="w-full bg-primary hover:bg-primary/90 text-primary-foreground py-6 text-lg rounded-xl group"
               asChild
             >
-              <a href="https://wa.me/6285710884081" target="_blank" rel="noopener noreferrer">
+              <a href="https://wa.me/6282138706794" target="_blank" rel="noopener noreferrer">
                 Daftar Sekarang
                 <ArrowRight className="ml-2 h-5 w-5 group-hover:translate-x-1 transition-transform" />
               </a>
@@ -61,16 +61,7 @@ export function PricingSection() {
 
             <div className="mt-8 pt-8 border-t border-border">
               <p className="text-center text-sm text-muted-foreground mb-4">Hubungi Admin:</p>
-              <div className="flex flex-col sm:flex-row gap-4 justify-center">
-                <a
-                  href="https://wa.me/6285710884081"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  className="flex items-center justify-center gap-2 px-4 py-2 rounded-lg bg-accent/10 text-accent hover:bg-accent/20 transition-colors"
-                >
-                  <MessageCircle className="h-4 w-4" />
-                  <span className="text-sm">Admin 1: +62 857-1088-4081</span>
-                </a>
+              <div className="flex justify-center">
                 <a
                   href="https://wa.me/6282138706794"
                   target="_blank"
@@ -78,7 +69,7 @@ export function PricingSection() {
                   className="flex items-center justify-center gap-2 px-4 py-2 rounded-lg bg-accent/10 text-accent hover:bg-accent/20 transition-colors"
                 >
                   <MessageCircle className="h-4 w-4" />
-                  <span className="text-sm">Admin 2: +62 821-3870-6794</span>
+                  <span className="text-sm">Admin: +62 821-3870-6794</span>
                 </a>
               </div>
             </div>

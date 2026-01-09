@@ -13,7 +13,7 @@ export function DisclaimerSection() {
             <p className="text-sm text-muted-foreground leading-relaxed">
               Algo Trade Screener bukan merupakan ajakan untuk membeli atau menjual saham. Semua rekomendasi bersifat
               informasi dan edukasi. Selalu lakukan analisis mandiri untuk memperkuat conviction Anda sebelum mengambil
-              keputusan investasi. Stockpick yang diberikan tidak menjamin keuntungan 100% dan setiap keputusan trading
+              keputusan investasi. Stockpick yang diberikan tidak menjamin keuntungan 100% dan setiap keputusan trading saham
               sepenuhnya menjadi tanggung jawab masing-masing investor.
             </p>
           </div>

@@ -10,8 +10,8 @@ export function WhatIsSection() {
             Apa itu <span className="text-primary">Algo Trade Screener?</span>
           </h2>
           <p className="text-lg text-muted-foreground max-w-3xl mx-auto text-pretty leading-relaxed">
-            Algo Trade Screener adalah sinyal trading premium bagi trader yang ingin mendapatkan screening saham-saham
-            pilihan melalui analisis algoritma trading berbasis data dan coding, bukan sekadar opini, feeling, atau
+            Algo Trade Screener adalah sinyal trading saham premium bagi trader yang ingin mendapatkan screening saham-saham
+            pilihan melalui analisis algoritma berbasis data dan coding, bukan sekadar opini, feeling, atau
             tebakan pasar.
           </p>
         </div>

@@ -30,7 +30,7 @@ export function HeroSection() {
               <span className="animate-ping absolute inline-flex h-full w-full rounded-full bg-accent opacity-75"></span>
               <span className="relative inline-flex rounded-full h-2 w-2 bg-accent"></span>
             </span>
-            <span className="text-sm text-accent font-medium">Sinyal Trading Premium</span>
+            <span className="text-sm text-accent font-medium">Sinyal Trading Saham Premium</span>
           </div>
 
           {/* Main Heading */}
@@ -55,7 +55,7 @@ export function HeroSection() {
               className="bg-primary hover:bg-primary/90 text-primary-foreground px-8 py-6 text-lg rounded-xl group"
               asChild
             >
-              <a href="https://wa.me/6285710884081" target="_blank" rel="noopener noreferrer">
+              <a href="https://wa.me/6282138706794" target="_blank" rel="noopener noreferrer">
                 Daftar Sekarang
                 <ArrowRight className="ml-2 h-5 w-5 group-hover:translate-x-1 transition-transform" />
               </a>
