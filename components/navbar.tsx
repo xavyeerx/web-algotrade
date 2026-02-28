@@ -51,7 +51,7 @@ export function Navbar() {
 
           <div className="hidden md:block">
             <Button asChild className="bg-primary hover:bg-primary/90">
-              <a href="https://wa.me/6282138706794" target="_blank" rel="noopener noreferrer">
+              <a href="https://wa.me/6285710884081" target="_blank" rel="noopener noreferrer">
                 Daftar Sekarang
               </a>
             </Button>
@@ -76,7 +76,7 @@ export function Navbar() {
                 </a>
               ))}
               <Button asChild className="bg-primary hover:bg-primary/90 w-full">
-                <a href="https://wa.me/6282138706794" target="_blank" rel="noopener noreferrer">
+                <a href="https://wa.me/6285710884081" target="_blank" rel="noopener noreferrer">
                   Daftar Sekarang
                 </a>
               </Button>

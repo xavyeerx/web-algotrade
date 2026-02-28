@@ -55,7 +55,7 @@ export function HeroSection() {
               className="bg-primary hover:bg-primary/90 text-primary-foreground px-8 py-6 text-lg rounded-xl group"
               asChild
             >
-              <a href="https://wa.me/6282138706794" target="_blank" rel="noopener noreferrer">
+              <a href="https://wa.me/6285710884081" target="_blank" rel="noopener noreferrer">
                 Daftar Sekarang
                 <ArrowRight className="ml-2 h-5 w-5 group-hover:translate-x-1 transition-transform" />
               </a>
