@@ -39,14 +39,8 @@ export function HeroSection() {
           </h1>
 
           <p className="text-xl text-muted-foreground max-w-2xl mx-auto text-pretty">
-            1 BULAN AKSES ALGO TRADE SCREENER
+            Mulai dari <span className="text-accent font-bold">Rp 50.000/bulan</span> — Akses sinyal saham premium & komunitas eksklusif
           </p>
-
-          {/* Price */}
-          <div className="flex flex-col items-center gap-2">
-            <span className="text-2xl text-muted-foreground line-through">RP 100.000</span>
-            <span className="text-5xl sm:text-6xl font-bold text-accent">RP 40.000</span>
-          </div>
 
           {/* CTA Button */}
           <div className="flex flex-col sm:flex-row items-center justify-center gap-4">
@@ -55,8 +49,8 @@ export function HeroSection() {
               className="bg-primary hover:bg-primary/90 text-primary-foreground px-8 py-6 text-lg rounded-xl group"
               asChild
             >
-              <a href="https://wa.me/6285710884081" target="_blank" rel="noopener noreferrer">
-                Daftar Sekarang
+              <a href="#pricing">
+                Lihat Paket Harga
                 <ArrowRight className="ml-2 h-5 w-5 group-hover:translate-x-1 transition-transform" />
               </a>
             </Button>
